@@ -1,0 +1,2 @@
+# amlogicTool
+amlogicTool
